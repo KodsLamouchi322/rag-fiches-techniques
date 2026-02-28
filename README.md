@@ -4,7 +4,7 @@
 
 ## 🎬 Vidéo Démo
 
-**[▶ Voir la démo du prototype](static/demo_prototype.mp4)**
+**[▶ Voir la démo du prototype](demo.mp4)**
 
 La vidéo montre : recherche sémantique, graphique de scores, export PDF/CSV/JSON, suggestions de reformulation, sidebar rétractable, historique pliable, et dark mode.
 

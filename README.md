@@ -2,6 +2,14 @@
 
 > Prototype de recherche sémantique (RAG) pour interroger une base de fiches techniques d'enzymes en boulangerie/pâtisserie, en langage naturel.
 
+## 🎬 Vidéo Démo
+
+**[▶ Voir la démo du prototype](static/demo_prototype.webp)**
+
+La vidéo montre : recherche sémantique, graphique de scores, export PDF/CSV/JSON, suggestions de reformulation, sidebar rétractable, historique pliable, et dark mode.
+
+
+
 ---
 
 ## 📋 Architecture
